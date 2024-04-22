@@ -7,13 +7,13 @@ Original file is located at
     https://colab.research.google.com/drive/1CDdvCbxw1DfGLA-cW7TrG9ukQa18xQhg
 """
 
-!pip --version
+#!pip --version
 
 #prerequisites
-!pip install datasets transformers torch
-!pip install accelerate -U
+#!pip install datasets transformers torch
+#!pip install accelerate -U
 
-!git clone https://github.com/ashwin63/AI_Human_Image_Classification.git
+#!git clone https://github.com/ashwin63/AI_Human_Image_Classification.git
 
 import numpy as np
 from datasets import load_dataset
@@ -29,11 +29,11 @@ from torch.utils.data import DataLoader, Dataset
 import os
 from PIL import Image
 
-print(torch.__version__)
+#print(torch.__version__)
 import transformers, tensorflow, numpy
-print(transformers.__version__)
-print(tensorflow.__version__)
-print(numpy.__version__)
+#print(transformers.__version__)
+#print(tensorflow.__version__)
+#print(numpy.__version__)
 
 class CustomImageDataset(Dataset):
     def __init__(self, img_dir, feature_extractor):
