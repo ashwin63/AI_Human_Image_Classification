@@ -1,5 +1,5 @@
 # AI_Human_Image_Classification
-
+We have developed and trained a Transformer model which can classify Images as either Real images or AI generated.
 
 References:
 Krizhevsky, A., & Hinton, G. (2009). Learning multiple layers of features from tiny images.
