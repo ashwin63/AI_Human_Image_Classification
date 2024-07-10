@@ -13,7 +13,7 @@ Dataset<br><br>
 Results:<br>
 <img width="1467" alt="Screenshot 2024-07-10 at 11 44 13 AM" src="https://github.com/ashwin63/AI_Human_Image_Classification/assets/26385060/0ec746ae-bdc9-4ece-bbaf-703b57b2fd07">
 
-Classification of images as Real / AI generated on sample images can be seen on the Jupyter Notebook file.<br>
+Classification of images as Real / AI generated on sample images can be seen on the Jupyter Notebook file.<br><br><br>
 References:
 Krizhevsky, A., & Hinton, G. (2009). Learning multiple layers of features from tiny images.
 
